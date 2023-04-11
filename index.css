@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+input[type="text"] {
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  font-size: 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+}
